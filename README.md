@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](yoovitor.github.io/order-summary-card/)
-- Live Site URL: [Live Site](yoovitor.github.io/order-summary-card/)
+- Live Site URL: [Live Site](https://yoovitor.github.io/order-summary-card/)
 
 ## My process
 
