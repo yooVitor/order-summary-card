@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](yoovitor.github.io/order-summary-card/)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-PKrGiY9D5r)
 - Live Site URL: [Live Site](https://yoovitor.github.io/order-summary-card/)
 
 ## My process
